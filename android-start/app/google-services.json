@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "257519833284",
+    "firebase_url": "https://testingfirebase-d7f02.firebaseio.com",
+    "project_id": "testingfirebase-d7f02",
+    "storage_bucket": "testingfirebase-d7f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257519833284:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257519833284-7obi1952dep574kruosfhqc076laajjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YMezkUsC0l1-trgWJXBY_0E8Rbahioc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
